@@ -1,0 +1,11 @@
+{
+    "block.expatternprovider.wireless_hub": "ME无线集线器",
+    "gui.expatternprovider.precise_storage_bus.default": "默认",
+    "gui.expatternprovider.precise_storage_bus.greater_equal": "显示大于等于",
+    "gui.expatternprovider.precise_storage_bus.greater": "显示大于",
+    "gui.expatternprovider.precise_storage_bus.equal": "显示等于",
+    "gui.expatternprovider.precise_storage_bus.less": "显示小于",
+    "gui.expatternprovider.precise_storage_bus.less_equal": "显示小于等于",
+    "gui.expatternprovider.wireless_hub": "ME无线集线器",
+    "chat.wireless_connect.out_of_port": "该无线集线器没有可用端口"
+}
