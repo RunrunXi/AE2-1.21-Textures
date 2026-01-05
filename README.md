@@ -18,9 +18,11 @@
 ### 已更新的材质
 - ✅ [AE2]应用能源2 (Applied Energistics 2)
 - ✅ [AAE] 高级AE (AdvancedAE)
+- ✅ [EAE] AE2扩展 (ExtendedAE)
 
 ### 计划更新
-- 🔄 [EAE] AE2扩展 (ExtendedAE)
+- 🔄 AE2 Things
+- 🔄 AE2 MEGA Things
 
 ## 📝 注意事项
 
